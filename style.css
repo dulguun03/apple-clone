@@ -76,7 +76,7 @@ body {
 }
 
 .iphone {
-    background-image: url(/images/iphone.png);
+    background-image: url(images/iphone.png);
     background-size: 30%;
     background-position: bottom center;
     background-repeat: no-repeat;
@@ -112,7 +112,7 @@ body {
 }
 
 .mac {
-    background-image: url(/images/mac.png);
+    background-image: url(images/mac.png);
     display: flex;
     background-size: 25%;
     background-position: bottom center;
@@ -180,28 +180,28 @@ body {
 }
 
 .wwdc {
-    background: black url('/images/w') center/cover no-repeat;
+    background: black url('images/w') center/cover no-repeat;
 }
 
 .watch {
-    background: #f5f5f7 url('/images/watch.png') bottom center/contain no-repeat;
+    background: #f5f5f7 url('images/watch.png') bottom center/contain no-repeat;
 }
 
 .mac.dark {
-    background: black url('/images/pro.jpg') bottom center/contain no-repeat;
+    background: black url('images/pro.jpg') bottom center/contain no-repeat;
 }
 
 .airpods {
-    background: #f5f5f7 url('/images/airpod.jpg') center/contain no-repeat;
+    background: #f5f5f7 url('images/airpod.jpg') center/contain no-repeat;
     background-position: bottom;
 }
 
 .trade {
-    background: #f5f5f7 url('/images/trade-removebg-preview.png') bottom center/contain no-repeat;
+    background: #f5f5f7 url('images/trade-removebg-preview.png') bottom center/contain no-repeat;
 }
 
 .card {
-    background: #f5f5f7 url('/images/card-removebg-preview.png') center/contain no-repeat;
+    background: #f5f5f7 url('images/card-removebg-preview.png') center/contain no-repeat;
     background-size: 70%;
     background-position: bottom;
 }
